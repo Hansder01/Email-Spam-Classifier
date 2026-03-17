@@ -97,7 +97,7 @@ jupyter notebook
 
 ---
 
-## 📦 requirements.txt
+## 📦 Dependencies
 
 ```
 pandas
