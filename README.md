@@ -145,23 +145,6 @@ Aspiring Data Professional | Machine Learning Enthusiast
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## ⚠️ Final Notes
-
-Before uploading to GitHub:
-
-* Replace `your-username/email-spam-classifier` with your actual repo link
-* Update **Accuracy (97%)** with your real model result
-
----
-
-If you want, I can next:
-
 * Add **live demo (Streamlit) badge + deployment guide**
 * Create a **portfolio-level README with visuals and diagrams**
 * Convert this into a **LinkedIn project post** 🚀
